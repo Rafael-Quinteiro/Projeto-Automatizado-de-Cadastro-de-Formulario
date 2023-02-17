@@ -32,6 +32,7 @@ O teste case 001 tem como objetivo preencher o formulário de um customer e salv
 
 ## 🛠️ Construído com
 
+* [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver/) - Framework
 * [ChomerDriver](https://chromedriver.chromium.org/) - Framework
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
 * [JUnit](https://junit.org/junit5/) - Biblioteca
