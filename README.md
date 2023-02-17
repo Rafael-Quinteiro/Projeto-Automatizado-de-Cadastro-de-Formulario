@@ -1,4 +1,4 @@
-# Teste web para prova do banco Sicredi
+# Projeto Automatizado de Cadastro de Formulário
 
 O presente projeto visa mostrar dois casos de testes de criação de cadastro de um customer e um novo cadastro e a exclusão dele, respectivamente.
 
