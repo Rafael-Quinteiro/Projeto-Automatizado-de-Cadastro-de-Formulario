@@ -18,6 +18,7 @@ De quais coisas você precisa instalar para conseguir executar os testes?
 - Navegador Chrome com versão 110.
 
 ```
+
 ## ⚙️ Executando os testes
 
 Para obter êxito na execução dos testes, baixe o projeto em sua máquina, abra-o com seu editor de código e execute a classe de testes chamada "automatizado-testeweb".
